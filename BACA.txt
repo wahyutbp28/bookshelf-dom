@@ -1,0 +1,6 @@
+ini adalah salah satu hasil submission saya dari plaftorm dicoding tentang : 
+Javascript DOM dan Mengolah data dengan memanfaatkan localstorage browser.
+
+Program ini bisa dijalankan tanpa library apapun. 
+
+Tinggal buka saja file index.html , semua fitur otomatis bisa digunakan.
